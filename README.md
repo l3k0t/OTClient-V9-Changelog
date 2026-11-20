@@ -4,6 +4,7 @@ Histórico público de alterações do OTClient V9.
 
 ## 20 de novembro de 2026
 
+- **Store e atalhos**. O painel lateral ganhou um cabeçalho mais limpo e uma grade com mais espaço entre os botões. O Store continua disponível com a grade recolhida.
 - **Montarias**. Corrigida a animação de caminhada na prévia de aparência para montarias como a Spirit of Purity.
 - **Mapa 15.11**. Corrigida a leitura de itens com duração ou cargas que podia deixar o cenário incompleto após entrar no mundo.
 - **Interface Retro**. O painel de atalhos passou a usar toda a largura disponível. As barras de vida e mana sobre o mapa ficam ocultas quando a barra superior está ativa.
